@@ -1,4 +1,4 @@
-baseURL = 'http://cstheory.org'
+baseURL = 'https://cstheory.org'
 title = 'SIGma'
 theme = 'hugo-theme-texify'
 languageCode = "en-us"
