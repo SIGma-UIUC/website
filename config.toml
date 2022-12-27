@@ -1,15 +1,12 @@
 baseURL = 'http://example.org/'
-title = 'SIG for Math & Algos'
+title = 'SIGma'
 theme = 'hugo-theme-texify'
 languageCode = "en-us"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+    description = "The [WIP] Website for the SIG for Math and Algorithms" # website description
 
 [[menu.main]]
-identifier = "about" # section id
-name = "About"       # section display title
-url = "/about"           # path to the section
+    identifier = "about" # section id
+    name = "About"       # section display title
+    url = "/about"           # path to the section
