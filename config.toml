@@ -1,11 +1,11 @@
 baseURL = 'https://cstheory.org'
 title = 'SIGma'
-theme = 'hugo-theme-texify'
+theme = ['hugo-theme-texify']
 languageCode = "en-us"
 
 [params]
     description = "The [WIP] Website for the SIG for Math and Algorithms" # website description
-
+    css = ['css/style.css']
 [[menu.main]]
     identifier = "about" # section id
     name = "About"       # section display title
