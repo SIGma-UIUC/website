@@ -1,15 +1,33 @@
 baseURL = 'https://cstheory.org'
 title = 'SIGma'
-theme = ['hugo-theme-texify']
+theme = ['hugo-coder']
 languageCode = "en-us"
+defaultContentLanguage = "en"
 
 [params]
     description = "The [WIP] Website for the SIG for Math and Algorithms" # website description
-    css = ['css/style.css']
-    footnote = ""
-    since = "2022"
+    info = "The SIG for Math and Algorithms"
+    avatarURL = "images/avatar.jpg"
+    since = 2022
+    customSCSS = ["scss/style.scss"]
+    colorScheme = "light"
+    hideColorSchemeToggle = true
 
 [[menu.main]]
     identifier = "about" # section id
     name = "About"       # section display title
     url = "/about"       # path to the section
+
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-4x fa-github"
+weight = 1
+url = "https://github.com/SIGma-UIUC"
+
+
+[[params.social]]
+name = "Discord"
+icon = "fa fa-4x fa-discord-alt"
+weight = 1
+url = "https://discord.gg/Sxf3h3pBbv"
