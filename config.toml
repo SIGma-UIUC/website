@@ -19,7 +19,10 @@ defaultContentLanguage = "en"
     identifier = "about" # section id
     name = "About"       # section display title
     url = "/about"       # path to the section
-
+[[menu.main]]
+    identifier = "meetings"
+    name = "Meetings"
+    url = "/meetings"
 
 [[params.social]]
 name = "Github"
