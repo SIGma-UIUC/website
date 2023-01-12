@@ -14,4 +14,4 @@ ___
 
 This semester was our first semester! As such, we decided to start with some more introductory material. The material was loosely based on Michael Sipser's "Introduction to the Theory of Computation"
 
-- Husnain - Generating Functions [[slides](https://cstheory.org/meetings/fa2022/generating_functions/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA22/11-generating_functions)]
+- Husnain - Generating Functions [[slides](https://cstheory.org/meetings/fa22/generating_functions/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA22/11-generating_functions)]
