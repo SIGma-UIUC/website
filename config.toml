@@ -24,6 +24,7 @@ defaultContentLanguage = "en"
     name = "Meetings"
     url = "/meetings"
 
+# https://forkaweso.me/Fork-Awesome/icons/
 [[params.social]]
 name = "Github"
 icon = "fa fa-4x fa-github"
@@ -36,3 +37,9 @@ name = "Discord"
 icon = "fa fa-4x fa-discord-alt"
 weight = 1
 url = "https://discord.gg/Sxf3h3pBbv"
+
+[[params.social]]
+name= "YouTube"
+icon = "fa fa-4x fa-youtube-play"
+weight = 1
+url = "https://www.youtube.com/channel/UCStWQgYUnKdCk9TpwJ-_SRA"
