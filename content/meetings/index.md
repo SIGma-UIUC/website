@@ -8,6 +8,8 @@ ___
 
 This semester, we are running meetings about combinatorial structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
 
+- SIGma - Introduction [[slides](https://cstheory.org/meetings/sp23/fibonacci/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA22/1-introduction)] [[video](https://youtu.be/OlY3TQIjAZ4)]
+
 ___
 
 ## Fall 2022
