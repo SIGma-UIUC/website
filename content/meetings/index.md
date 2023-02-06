@@ -10,7 +10,7 @@ This semester, we are running meetings about combinatorial structures and algori
 
 - SIGma - Introduction [[slides](https://cstheory.org/meetings/sp23/fibonacci/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/1-introduction)] [[video](https://youtu.be/OlY3TQIjAZ4)]
 
-- Anakin - Langford Pairs [[slides](https://cstheory.org/meetings/sp23/langford/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/langford/answers.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/2-binary)] [[video](youtube.com)]
+- Anakin - Langford Pairs [[slides](https://cstheory.org/meetings/sp23/langford/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/langford/answers.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/2-binary)]
 ___
 
 ## Fall 2022
