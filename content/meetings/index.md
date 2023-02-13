@@ -13,7 +13,7 @@ This semester, we are running meetings about combinatorial structures and algori
 - Anakin - Binary [[slides](https://cstheory.org/meetings/sp23/binary/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/binary/answers.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/2-binary)]
 
 
-- Anakin - Langford Pairings [[slides](https://cstheory.org/meetings/sp23/langford/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/langford/answers.pdf)] [[program](https://github.com/SIGma-UIUC/meetings/blob/main/SP23/3-langford/langford_pairing.py)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/3-langford)]
+- Anakin - Langford Pairings [[slides](https://cstheory.org/meetings/sp23/langford/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/langford/answers.pdf)] [[program](https://github.com/SIGma-UIUC/meetings/blob/main/SP23/3-langford/langford_pairing.py)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/3-langford)] [[video](https://youtu.be/-ryG_ClEeXQ)]
 ___
 
 ## Fall 2022
