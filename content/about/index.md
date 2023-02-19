@@ -30,6 +30,6 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Past Admins
 
-[[Husnain]](https://epistemologist.github.io/)[^1]
+[[Husnain](https://epistemologist.github.io/)][^1]
 
 [^1]: Founder of this whole thing
