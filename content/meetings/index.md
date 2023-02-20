@@ -8,7 +8,7 @@ ___
 
 This semester, we are running meetings about combinatorial structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
 
-- Lou & Anakin - **Algorithm X**
+- Lou & Anakin - **Algorithm X** [[slides](https://cstheory.org/meetings/sp23/algorithm_x/slides.pdf)]
 
 - Anakin - **Langford Pairings** [[slides](https://cstheory.org/meetings/sp23/langford/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/langford/answers.pdf)] [[program](https://github.com/SIGma-UIUC/meetings/blob/main/SP23/3-langford/langford_pairing.py)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/3-langford)] [[video](https://youtu.be/-ryG_ClEeXQ)]
 
