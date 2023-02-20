@@ -31,7 +31,6 @@ icon = "fa fa-4x fa-github"
 weight = 1
 url = "https://github.com/SIGma-UIUC"
 
-
 [[params.social]]
 name = "Discord"
 icon = "fa fa-4x fa-discord-alt"
