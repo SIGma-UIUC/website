@@ -25,7 +25,7 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Admins
 
-[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Aditya](https://nebhrajani-a.org/)][^1] [Phil][^1] [Lou]
+[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Aditya](https://nebhrajani-a.org/)][^1] [Phil][^1] [[Lou](https://github.com/zeh3)]
 
 
 #### Past Admins
