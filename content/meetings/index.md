@@ -8,6 +8,12 @@ ___
 
 This semester, we are running meetings about combinatorial structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
 
+- Parth - **Ramsey's Theorem** [[slides](https://cstheory.org/meetings/sp23/ramsey/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/9-ramsey)] [[video](https://youtu.be/AOX9m8ZeQE8)]
+
+- Anakin - **Twin-width** [[slides](https://cstheory.org/meetings/sp23/twin_width/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/8-twin_width)] [[video](https://youtu.be/m-QOci6iNKc)]
+
+- Aditya - **Burnside's Lemma** [[slides](https://cstheory.org/meetings/sp23/burnsides/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/)] [[video](https://youtu.be/NLCyCX3aZyI)]
+
 - Hassam - **Canonical Deletions** [[slides](https://cstheory.org/meetings/sp23/canonical_deletions/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/6-canonical_deletions)] [[video](https://youtu.be/A3ppoyaN-q4)]
 
 - Sam - **Permutations** [[slides](https://cstheory.org/meetings/sp23/permutations/slides.pdf)] [[answers](https://www.cstheory.org/meetings/sp23/permutations/answers.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/5-permutations)] [[video](https://youtu.be/UO-3KTYDXbM)]
