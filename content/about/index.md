@@ -13,7 +13,7 @@ Check out our past [[meetings](https://www.cstheory.org/meetings/)] to see all t
 
 Mondays 5:00 PM
 
-Siebel Center for Computer Science, Room 1404
+Siebel Center for Computer Science, Room 1304
 
 ### Who Are We?
 
