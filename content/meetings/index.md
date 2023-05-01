@@ -8,6 +8,10 @@ ___
 
 This semester, we are running meetings about combinatorial structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
 
+- Ryan - **** [[slides](https://cstheory.org/meetings/sp23/streaming/slides.pdf)] [[scribbles](https://cstheory.org/meetings/sp23/streaming/scribbles.pdf)]  [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/11-streaming)] [[video](https://youtu.be/UC7PQozcNW0)]
+
+- Phil - **** [[slides](https://cstheory.org/meetings/sp23/clustering/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/10-clustering)] [[video](https://youtu.be/cyqnIqTe-Cs)]
+
 - Parth - **Ramsey's Theorem** [[slides](https://cstheory.org/meetings/sp23/ramsey/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/9-ramsey)] [[video](https://youtu.be/AOX9m8ZeQE8)]
 
 - Anakin - **Twin-width** [[slides](https://cstheory.org/meetings/sp23/twin_width/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/8-twin_width)] [[video](https://youtu.be/m-QOci6iNKc)]
