@@ -13,27 +13,16 @@ ___
 This semester, we ran meetings about combinational structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
 
 - Jeff Erickson - **Fusible Numbers** [[slides](https://jeffe.cs.illinois.edu/pubs/talks/fusible-SIGMA.pdf)] [[video](https://mediaspace.illinois.edu/media/t/1_24815pcd)]
-
 - Ryan - **Streaming** [[slides](https://cstheory.org/meetings/sp23/streaming/slides.pdf)] [[scribbles](https://cstheory.org/meetings/sp23/streaming/scribbles.pdf)]  [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/11-streaming)] [[video](https://youtu.be/UC7PQozcNW0)]
-
 - Phil - **Clustering** [[slides](https://cstheory.org/meetings/sp23/clustering/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/10-clustering)] [[video](https://youtu.be/cyqnIqTe-Cs)]
-
 - Parth - **Ramsey's Theorem** [[slides](https://cstheory.org/meetings/sp23/ramsey/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/9-ramsey)] [[video](https://youtu.be/AOX9m8ZeQE8)]
-
 - Anakin - **Twin-width** [[slides](https://cstheory.org/meetings/sp23/twin_width/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/8-twin_width)] [[video](https://youtu.be/m-QOci6iNKc)]
-
 - Aditya - **Burnside's Lemma** [[slides](https://cstheory.org/meetings/sp23/burnsides/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/)] [[video](https://youtu.be/NLCyCX3aZyI)]
-
 - Hassam - **Canonical Deletions** [[slides](https://cstheory.org/meetings/sp23/canonical_deletions/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/6-canonical_deletions)] [[video](https://youtu.be/A3ppoyaN-q4)]
-
 - Sam - **Permutations** [[slides](https://cstheory.org/meetings/sp23/permutations/slides.pdf)] [[answers](https://www.cstheory.org/meetings/sp23/permutations/answers.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/5-permutations)] [[video](https://youtu.be/UO-3KTYDXbM)]
-
 - Lou & Anakin - **Algorithm X** [[slides](https://cstheory.org/meetings/sp23/algorithm_x/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/4-algorithm_x)] [[video](https://youtu.be/iv6pB4WCFIo)]
-
 - Anakin - **Langford Pairings** [[slides](https://cstheory.org/meetings/sp23/langford/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/langford/answers.pdf)] [[program](https://github.com/SIGma-UIUC/meetings/blob/main/SP23/3-langford/langford_pairing.py)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/3-langford)] [[video](https://youtu.be/-ryG_ClEeXQ)]
-
 - Anakin - **Binary** [[slides](https://cstheory.org/meetings/sp23/binary/slides.pdf)] [[answers](https://cstheory.org/meetings/sp23/binary/answers.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/2-binary)]
-
 - SIGma - **Introduction** [[slides](https://cstheory.org/meetings/sp23/fibonacci/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/1-introduction)] [[video](https://youtu.be/OlY3TQIjAZ4)]
 
 ___
