@@ -11,9 +11,9 @@ Check out our past [[meetings](https://www.cstheory.org/meetings/)] to see all t
 
 ### When and Where?
 
-Mondays 5:00 PM
+Mondays 4:00 PM
 
-Siebel Center for Computer Science, Room 1304
+Siebel Center for Computer Science, Room 1302
 
 ### Who Are We?
 
@@ -25,11 +25,11 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Admins
 
-[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Aditya](https://nebhrajani-a.org/)][^1] [Phil][^1] [[Lou](https://github.com/zeh3)]
+[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Aditya](https://nebhrajani-a.org/)][^1]
 
 
 #### Past Admins
 
-[[Husnain](https://epistemologist.github.io/)][^1]
+[[Husnain](https://epistemologist.github.io/)][^1] [Phil][^1] [[Lou](https://github.com/zeh3)]
 
 [^1]: Founder of this whole thing
