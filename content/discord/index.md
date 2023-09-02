@@ -1,15 +1,13 @@
 ---
+summary: The SIGma Discord
 ---
-
-<!DOCTYPE html>
-<html>
-
+Redirecting...
+{{< unsafe >}}
 <head>
-  <title>Redirecting to Discord</title>
+  <title>Resume</title>
   <link rel="canonical" href="https://discord.gg/Sxf3h3pBbv" />
   <meta name="robots" content="noindex">
   <meta charset="utf-8" />
   <meta http-equiv="refresh" content="0; url=https://discord.gg/Sxf3h3pBbv" />
 </head>
-
-</html>
+{{< /unsafe >}}
