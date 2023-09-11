@@ -6,6 +6,7 @@ This is where we publish all of our weekly content, along with any other related
 
 This semester's theme will be about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
 
+- SIGma - **Introduction** [[slides](https://cstheory.org/meetings/fa23/zeckendorf/slides.pdf)] [[code](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/0-introduction/slides)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/0-introduction/slides)]
 ___
 
 ## Spring 2023
