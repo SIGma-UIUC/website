@@ -1,3 +1,7 @@
+---
+summary: Look at past meetings!
+---
+
 # Meetings
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.

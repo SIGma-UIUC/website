@@ -1,6 +1,7 @@
 ---
 summary: The SIGma Discord
 ---
+
 Redirecting...
 {{< unsafe >}}
 <head>

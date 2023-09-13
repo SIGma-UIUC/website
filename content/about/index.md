@@ -1,3 +1,7 @@
+---
+summary: Learn about SIGma
+---
+
 # About
 
 ### What is SIGma
