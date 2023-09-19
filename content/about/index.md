@@ -29,11 +29,11 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Admins
 
-[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Aditya](https://nebhrajani-a.org/)][^1]
+[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Ryan](https://ziegler.lol/)]
 
 
 #### Past Admins
 
-[[Husnain](https://epistemologist.github.io/)][^1] [Phil][^1] [[Lou](https://github.com/zeh3)]
+[[Husnain](https://epistemologist.github.io/)][^1] [Phil][^1] [[Lou](https://github.com/zeh3)] [[Aditya](https://nebhrajani-a.org/)][^1]
 
 [^1]: Founder of this whole thing
