@@ -12,12 +12,13 @@ This semester's theme will be about all things related to coding theory! This ca
 
 - SIGma - **Introduction** [[slides](https://cstheory.org/meetings/fa23/zeckendorf/slides.pdf)] [[code](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/0-introduction/code)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/0-introduction/slides)] [[video](https://youtu.be/fA4bHxMUAj8)]
 - Anakin - **REUs & Computational Algebra** [[slides](https://cstheory.org/meetings/fa23/reu/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/0-introduction/slides)] [[video](https://youtu.be/ACsIm7hPOIM)]
+- Anakin - **Codes** [[slides](https://cstheory.org/meetings/fa23/codes/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/2-codes/slides)]
 
 ___
 
 ## Spring 2023
 
-This semester, we ran meetings about combinational structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
+This semester, we ran meetings about combinatorial structures and algorithms. Much of the material is being based out of Donald Knuth's "The Art of Computer of Computer Programming" Volumes 4A and 4B. We will also probably look into other sources as the field is quite vast.
 
 - Jeff Erickson - **Fusible Numbers** [[slides](https://jeffe.cs.illinois.edu/pubs/talks/fusible-SIGMA.pdf)] [[video](https://mediaspace.illinois.edu/media/t/1_24815pcd)]
 - Ryan - **Streaming** [[slides](https://cstheory.org/meetings/sp23/streaming/slides.pdf)] [[scribbles](https://cstheory.org/meetings/sp23/streaming/scribbles.pdf)]  [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/11-streaming)] [[video](https://youtu.be/UC7PQozcNW0)]
