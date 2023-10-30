@@ -10,6 +10,9 @@ This is where we publish all of our weekly content, along with any other related
 
 This semester's theme will be about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
 
+- Aditya - **Low-Density Parity Checking Codes** [slides] [source] [video]
+- Sam - **Hamming Codes** [slides] [source] [[video](https://youtu.be/8v_2eXnImoE)]
+- Parth and Andrey - **Quantum Gates and Circuits** [[slides](https://cstheory.org/meetings/fa23/qit_2/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/3-QIT\_2/slides)] [[video](https://youtu.be/MyJRl9KkFxg)]
 - Parth and Andrey - **Qubits** [[slides](https://cstheory.org/meetings/fa23/qit_1/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/3-QIT\_1/slides)]
 - Anakin - **Codes** [[slides](https://cstheory.org/meetings/fa23/codes/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/2-codes/slides)]
 - Anakin - **REUs & Computational Algebra** [[slides](https://cstheory.org/meetings/fa23/reu/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/0-introduction/slides)] [[video](https://youtu.be/ACsIm7hPOIM)]
