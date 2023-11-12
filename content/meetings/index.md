@@ -10,7 +10,9 @@ This is where we publish all of our weekly content, along with any other related
 
 This semester's theme will be about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
 
-- Aditya - **Low-Density Parity Checking Codes** [[slides](https://cstheory.org/meetings/fa23/ldpc/slides.pdf)] [[code](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/6-LDPC/code)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/6-LDPC/slides)]
+- Eyad - **Kolmogorov Complexity** [[slides](https://cstheory.org/meetings/fa23/kolmogorov/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/8-Kolmogorov/slides)] [[video](https://youtu.be/WaAzDz81veY)]
+- Hassam - **Linear and Cyclic Codes** [[slides](https://cstheory.org/meetings/fa23/linear/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/7-linear/slides)] [[video](https://youtu.be/86HIBRwTY1I)]
+- Aditya - **Low-Density Parity Checking Codes** [[slides](https://cstheory.org/meetings/fa23/ldpc/slides.pdf)] [[code](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/6-LDPC/code)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/6-LDPC/slides)] [[video](https://youtu.be/Zn_FiBI75-o)]
 - Sam - **Hamming Codes** [[slides](https://cstheory.org/meetings/fa23/hamming/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/5-Hamming/slides)] [[video](https://youtu.be/8v_2eXnImoE)]
 - Parth and Andrey - **Quantum Gates and Circuits** [[slides](https://cstheory.org/meetings/fa23/qit_2/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/3-QIT\_2/slides)] [[video](https://youtu.be/MyJRl9KkFxg)]
 - Parth and Andrey - **Qubits** [[slides](https://cstheory.org/meetings/fa23/qit_1/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/3-QIT\_1/slides)]
