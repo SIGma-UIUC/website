@@ -10,6 +10,7 @@ This is where we publish all of our weekly content, along with any other related
 
 This semester's theme will be about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
 
+- Alex & Porter - **Burst Codes** [[slides](https://cstheory.org/meetings/fa23/burst/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/9-Burst/slides)] [[video](https://youtu.be/D-Ijz_NZBCg)]
 - Eyad - **Kolmogorov Complexity** [[slides](https://cstheory.org/meetings/fa23/kolmogorov/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/8-Kolmogorov/slides)] [[video](https://youtu.be/WaAzDz81veY)]
 - Hassam - **Linear and Cyclic Codes** [[slides](https://cstheory.org/meetings/fa23/linear/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/7-linear/slides)] [[video](https://youtu.be/86HIBRwTY1I)]
 - Aditya - **Low-Density Parity Checking Codes** [[slides](https://cstheory.org/meetings/fa23/ldpc/slides.pdf)] [[code](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/6-LDPC/code)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/6-LDPC/slides)] [[video](https://youtu.be/Zn_FiBI75-o)]
