@@ -8,8 +8,14 @@ This is where we publish all of our weekly content, along with any other related
 
 ## Fall 2023
 
-This semester's theme will be about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
+Trading depth for breadth, this semester will have no central theme! If you are interested in presenting, please see Discord and reach out!
 
+## Fall 2023
+
+This semester's theme was about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
+
+- Ryan - **Turbo Codes** [[scribbles](https://cstheory.org/meetings/fa23/turbo/scribbles.pdf)] [[video](https://youtu.be/2lmuxOcPM4Y)]
+- Anakin - **Reed-Soloman Codes** [[slides](https://cstheory.org/meetings/fa23/burst/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/10-Reed/slides)] [[video](https://youtu.be/P1JTwUuu3Qc)]
 - Alex & Porter - **Burst Codes** [[slides](https://cstheory.org/meetings/fa23/burst/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/9-Burst/slides)] [[video](https://youtu.be/D-Ijz_NZBCg)]
 - Eyad - **Kolmogorov Complexity** [[slides](https://cstheory.org/meetings/fa23/kolmogorov/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/8-Kolmogorov/slides)] [[video](https://youtu.be/WaAzDz81veY)]
 - Hassam - **Linear and Cyclic Codes** [[slides](https://cstheory.org/meetings/fa23/linear/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA23/7-linear/slides)] [[video](https://youtu.be/86HIBRwTY1I)]
