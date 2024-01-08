@@ -29,7 +29,7 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Admins
 
-[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Ryan](https://ziegler.lol/)]
+[[Sam](https://surg.dev/)][^1] [[Hassam](https://hassamuddin.com/)][^1] [[Ryan](https://ziegler.lol/)] [[Alex](https://alex-d-b.github.io/ )] [[Porter](https://www.linkedin.com/in/porter-sh/)]
 
 
 #### Past Admins

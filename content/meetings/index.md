@@ -6,7 +6,7 @@ summary: Look at past meetings!
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
-## Fall 2023
+## Spring 2024
 
 Trading depth for breadth, this semester will have no central theme! If you are interested in presenting, please see Discord and reach out!
 
