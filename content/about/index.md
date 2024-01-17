@@ -15,7 +15,7 @@ Check out our past [[meetings](https://www.cstheory.org/meetings/)] to see all t
 
 ### When and Where?
 
-Mondays 4:00 PM
+Mondays 5:00 PM
 
 Siebel Center for Computer Science, Room 1302
 
