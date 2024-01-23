@@ -10,6 +10,8 @@ This is where we publish all of our weekly content, along with any other related
 
 Trading depth for breadth, this semester will have no central theme! If you are interested in presenting, please see Discord and reach out!
 
+- Anakin - **Algebraic Circuits** [[slides](https://cstheory.org/meetings/sp24/algebra/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/1-introduction)] [[video](https://youtu.be/f810mgIXPH4)]
+
 ## Fall 2023
 
 This semester's theme was about all things related to coding theory! This can range from sphere packing, complexity, error correcting codes, and more.
