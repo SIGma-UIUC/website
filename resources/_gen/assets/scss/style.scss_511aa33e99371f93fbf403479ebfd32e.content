@@ -1,0 +1,1 @@
+.avatar img{width:20rem;height:auto;border-radius:0%}@media only screen and (max-width:768px){.avatar img{width:10rem}}.navigation a,.navigation span{font-size:2.5rem}.navigation .navigation-title{letter-spacing:.1rem;text-transform:none}
