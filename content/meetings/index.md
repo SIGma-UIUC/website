@@ -10,6 +10,8 @@ This is where we publish all of our weekly content, along with any other related
 
 Trading depth for breadth, this semester will have no central theme! If you are interested in presenting, please see Discord and reach out!
 
+- Eyad - **Quantum Complexity Theory** [[slides](https://cstheory.org/meetings/sp24/quantum/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/6-Quantum)]
+- Franklin - **Generating Functions** [[slides](https://cstheory.org/meetings/sp24/gen_func/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/5-Gen-Func)]
 - Parth - **Cyclic Tag Systems** [[slides](https://cstheory.org/meetings/sp24/tag/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/4-Tag)] [[code](https://github.com/papermango/cyts)]
 - Hassam - **Fast Inverse Square Root** [[slides](https://cstheory.org/meetings/sp24/fisr/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/3-FISR)] [[video](https://youtu.be/Gh7snY3TRFo)]
 - Porter - **Fibonacci Heaps** [[slides](https://cstheory.org/meetings/sp24/fib_heaps/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/2-Fibonacci-Heaps)]
