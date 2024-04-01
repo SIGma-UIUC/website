@@ -10,6 +10,10 @@ This is where we publish all of our weekly content, along with any other related
 
 Trading depth for breadth, this semester will have no central theme! If you are interested in presenting, please see Discord and reach out!
 
+
+- Jihong - **Knot Theory** [[slides](https://cstheory.org/meetings/sp24/shortsweet1knot/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/8-Short-SweetKnot)] [[video](https://youtu.be/OwwZeMIubx0&t=1833)]
+- Andrey - **Shor's Algorithm** [[slides](https://cstheory.org/meetings/sp24/shortsweet1/shor/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/8-Short-Sweet/Shor)] [[video](https://youtu.be/OwwZeMIubx0&t=1029)]
+- Sasha - **RSA** [[slides](https://cstheory.org/meetings/sp24/shortsweet1/rsa/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/8-Short-Sweet/RSA)] [[video](https://youtu.be/OwwZeMIubx0)]
 - Sam - **Convex Hulls** [[slides](https://cstheory.org/meetings/sp24/convex/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/7-Convex)]
 - Eyad - **Quantum Complexity Theory** [[slides](https://cstheory.org/meetings/sp24/quantum/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/6-Quantum)]
 - Franklin - **Generating Functions** [[slides](https://cstheory.org/meetings/sp24/gen_func/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP24/5-Gen-Func)]
