@@ -23,6 +23,10 @@ defaultContentLanguage = "en"
     identifier = "meetings"
     name = "[Meetings]"
     url = "/meetings"
+[[menu.main]]
+    identifier = "alums"
+    name = "[Alumni]"
+    url = "/alums"
 
 # https://forkaweso.me/Fork-Awesome/icons/
 [[params.social]]

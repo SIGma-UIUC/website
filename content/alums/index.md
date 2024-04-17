@@ -1,5 +1,5 @@
 ---
-summary: Learn about SIGma
+summary: Learn how alumni involvement
 ---
 
 # Alumni
