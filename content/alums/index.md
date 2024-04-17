@@ -1,5 +1,5 @@
 ---
-summary: Learn how alumni involvement
+summary: Learn about alumni involvement
 ---
 
 # Alumni
