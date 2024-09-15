@@ -6,6 +6,10 @@ summary: Look at past meetings!
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
+## Fall 2024
+
+- Porter - **P vs NP and the Traveling Salesman** [[slides](https://cstheory.org/meetings/fa24/intro_graphs/slides.pdf)] [[scribbles](https://cstheory.org/meetings/fa24/intro_graphs/scribbles.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/1-introduction)] [[video](https://youtu.be/uMdIePso6kg?si=QOMDsMqlmC9ov93p)]
+
 ## Spring 2024
 
 Trading depth for breadth, this semester will have no central theme! If you are interested in presenting, please see Discord and reach out!
