@@ -8,6 +8,9 @@ This is where we publish all of our weekly content, along with any other related
 
 ## Fall 2024
 
+- Ian - **Inverse Ackermann** [[slides](https://cstheory.org/meetings/fa24/inverse_ackermann/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/9-Inverse-Ackermann)] [[video](https://youtu.be/se64bz0bPH4)]
+- David - **Nim** [[slides](https://cstheory.org/meetings/fa24/nim/slides.pdf)]
+- Sam - **Fine-Grained Complexity** [[slides](https://cstheory.org/meetings/fa24/complexity/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/6-Complexity)] [[video](https://youtu.be/XqqwRn4-8gQ)]
 - Arion - **Algorithms in Bioinformatics** [[slides](https://cstheory.org/meetings/fa24/bioinformatics/slides.pdf)] [[video](https://youtu.be/XckWpb0AR-8)]
 - Franklin - **Integer Factorization** [[slides](https://cstheory.org/meetings/fa24/integer_factorization/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/4-Integer-Factorization)] [[video](https://youtu.be/3LVE8cmFT0I)]
 - Alex - **Graph Coloring and Compilers** [[slides](https://cstheory.org/meetings/fa24/coloring_compilers/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/3-Coloring-Compilers)] [[video](https://youtu.be/kmzsW9tviVY)]
