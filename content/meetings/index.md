@@ -6,8 +6,16 @@ summary: Look at past meetings!
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
+## Spring 2025
+- Alex - **Kinetic Data Structures** [[slides](https://cstheory.org/meetings/sp25/kinetic/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/2-Kinetic)] [[video](https://youtu.be/LIlaYCtc-1A)]
+- Ian - **De Bruijn Graphs** [[slides](https://cstheory.org/meetings/sp25/de_bruijn/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/1-De-Bruijn)] [[video](https://youtu.be/D0fynPgXm60)]
+- Porter - **Fibonacci Heaps** [[slides](https://cstheory.org/meetings/sp25/fib_heap/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/0-Fib-Heap)] [[video](https://youtu.be/EteEuS9hDdQ)]
+
 ## Fall 2024
 
+- Ryan - **Hypergraph Partitioning** [[video](https://youtu.be/N2p5Nea5Nhg)]
+- Hanyang - **Dynamics and Chaos** [[slides](https://cstheory.org/meetings/fa24/shortsweet/chaos/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/10-Short-Sweet/Dynamics-and-Chaos)] [[video](https://youtu.be/SUPmzcFBotI?si=ZVSU3ibuP9CKmNn3&t=687)]
+- Krish - **Pseudorandom Number Generation** [[slides](https://cstheory.org/meetings/fa24/shortsweet/pseudorandomness/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/10-Short-Sweet/Pseudorandomness)] [[video](https://youtu.be/SUPmzcFBotI?si=iR56KeVZPUe63ojr)]
 - Ian - **Inverse Ackermann** [[slides](https://cstheory.org/meetings/fa24/inverse_ackermann/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/9-Inverse-Ackermann)] [[video](https://youtu.be/se64bz0bPH4)]
 - David - **Nim** [[slides](https://cstheory.org/meetings/fa24/nim/slides.pdf)]
 - Sam - **Fine-Grained Complexity** [[slides](https://cstheory.org/meetings/fa24/complexity/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA24/6-Complexity)] [[video](https://youtu.be/XqqwRn4-8gQ)]
