@@ -18,15 +18,15 @@ This is where we publish all of our weekly content, along with any other related
 
 ## Fall 2025
 
-- Ian - **Linear Time Minimum Spanning Tree** [[slides](https://cstheory.org/meetings/fa25/mst/slides.pdf)]
+- Ian - **Linear Time Minimum Spanning Tree** [[slides](https://cstheory.org/meetings/fa25/mst/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA25/Linear-MST)]
 - pgcpgc777 - **Semi-Random Methods in Graph Theory**
 - Prithiv - **Derandomization**
 - Sasha - **Quantum Complexity**
 - Akshay - **Data Fusion**
 - Nhi - **Choosability on Multipartite Graphs**
 - Prithiv - **Minimum Enclosing Circle** 
-- Ian - **Generating Random Samples**  [[slides](https://cstheory.org/meetings/fa25/random_sample/slides.pdf)]
-- Porter - **Distributed Leader Election** [[slides](https://cstheory.org/meetings/fa25/leader_election/slides.pdf)] [[video](https://youtu.be/nmmdIg-sSFg)]
+- Ian - **Generating Random Samples**  [[slides](https://cstheory.org/meetings/fa25/random_sample/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA25/Random-Sampling)]
+- Porter - **Distributed Leader Election** [[slides](https://cstheory.org/meetings/fa25/leader_election/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA25/Distributed-Leader-Election)] [[video](https://youtu.be/nmmdIg-sSFg)]
 
 ## Spring 2025
 - Sasha - **Randomness Extractors**
