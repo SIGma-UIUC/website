@@ -7,6 +7,16 @@ summary: Look at past meetings!
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
 ## Spring 2025
+- Sasha - **Randomness Extractors**
+- Ahmad - **Matroids** [[slides](https://cstheory.org/meetings/sp25/matroids/slides.pdf)] [[video](https://youtu.be/xWWwQ1dqTdE?si=lCke7KTqMTdVMJ1_)]
+- Mihir - **World's Simplest Poker 2** [[slides](https://cstheory.org/meetings/sp25/poker2/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/10-Worlds-Simplest-Poker-2)]
+- Ian - **Multiple Sequence Alignment** [[slides](https://cstheory.org/meetings/sp25/alignment/slides.pdf)]
+- Nhi - **Concentration Inequalities** [[slides](https://cstheory.org/meetings/sp25/concentration_inequalities/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/8-Concentration-Inequalities)] [[video](https://youtu.be/GxDKRq84z2M)]
+- Jeff Erickson - **Sorting** [[slides](https://cstheory.org/meetings/sp25/sorting/slides.pdf)] [[video](https://youtu.be/qRODM-gSX9A?si=Y-IO7hqEWsfR2GrQ)] (joint meeting with [SIAM](https://discord.gg/ZJFXFkJ2g7))
+- Hanyang - **Dynamics and Chaos: Logistic Map** [[slides](https://cstheory.org/meetings/sp25/logistic_map/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/6-Logistic-Map)] [[video](https://youtu.be/upW1YCiO7Ss)]
+- Ryan - **Streaming** [[slides](https://cstheory.org/meetings/sp23/streaming/slides.pdf)] [[scribbles](https://cstheory.org/meetings/sp23/streaming/scribbles.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP23/11-streaming)] [[past video](https://youtu.be/UC7PQozcNW0)]
+- Mihir - **World's Simplest Poker** [[slides](https://cstheory.org/meetings/sp25/poker/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/4-Worlds-Simplest-Poker)] [[video](https://youtu.be/hKndT0hsMXo?si=-lps-hjvH-GOIEsX)]
+- Ethan - **Natural Deduction** [[slides](https://cstheory.org/meetings/sp25/natural_deduction/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/3-Natural-Deduction)] [[video](https://youtu.be/gkjoLVV9Nkk?si=2IvDxHyVFrkB5Vgd)]
 - Alex - **Kinetic Data Structures** [[slides](https://cstheory.org/meetings/sp25/kinetic/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/2-Kinetic)] [[video](https://youtu.be/LIlaYCtc-1A)]
 - Ian - **De Bruijn Graphs** [[slides](https://cstheory.org/meetings/sp25/de_bruijn/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/1-De-Bruijn)] [[video](https://youtu.be/D0fynPgXm60)]
 - Porter - **Fibonacci Heaps** [[slides](https://cstheory.org/meetings/sp25/fib_heap/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP25/0-Fib-Heap)] [[video](https://youtu.be/EteEuS9hDdQ)]
