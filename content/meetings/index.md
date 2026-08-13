@@ -6,11 +6,21 @@ summary: Look at past meetings!
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
+## Spring 2026
+
+- Jeff - **3SUM** [[slides](https://cstheory.org/meetings/sp26/3sum/slides.pdf)]
+- Mihir - **E-Graphs** [[slides](https://cstheory.org/meetings/sp26/egraphs/slides.pdf)]
+- Jack - **Graphons** [[slides](https://cstheory.org/meetings/sp26/graphons/slides.pdf)]
+- Ian - **Parallel Graph Connectivity and Shortest Paths** [[slides](https://cstheory.org/meetings/sp26/parallel_graphs/slides.pdf)] (joint meeting with [SIAM](https://discord.gg/ZJFXFkJ2g7))
+- Navid - **Shortest Paths**
+- Ian - **Dynamic Graph Connectivity** [[slides](https://cstheory.org/meetings/sp26/dynamic_connectivity/slides.pdf)]
+- Franklin - **Rolling and XOR Hashing**
+
 ## Fall 2025
 
 - Ian - **Linear Time Minimum Spanning Tree** [[slides](https://cstheory.org/meetings/fa25/mst/slides.pdf)]
-- pgcpgc777 **Semi-Random Methods in Graph Theory**
-- Prithiv **Derandomization**
+- pgcpgc777 - **Semi-Random Methods in Graph Theory**
+- Prithiv - **Derandomization**
 - Sasha - **Quantum Complexity**
 - Akshay - **Data Fusion**
 - Nhi - **Choosability on Multipartite Graphs**
