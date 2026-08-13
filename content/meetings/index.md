@@ -6,6 +6,18 @@ summary: Look at past meetings!
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
+## Fall 2025
+
+- Ian - **Linear Time Minimum Spanning Tree** [[slides](https://cstheory.org/meetings/fa25/mst/slides.pdf)]
+- pgcpgc777 **Semi-Random Methods in Graph Theory**
+- Prithiv **Derandomization**
+- Sasha - **Quantum Complexity**
+- Akshay - **Data Fusion**
+- Nhi - **Choosability on Multipartite Graphs**
+- Prithiv - **Minimum Enclosing Circle** 
+- Ian - **Generating Random Samples**  [[slides](https://cstheory.org/meetings/fa25/random_sample/slides.pdf)]
+- Porter - **Distributed Leader Election** [[slides](https://cstheory.org/meetings/fa25/leader_election/slides.pdf)] [[video](https://youtu.be/nmmdIg-sSFg)]
+
 ## Spring 2025
 - Sasha - **Randomness Extractors**
 - Ahmad - **Matroids** [[slides](https://cstheory.org/meetings/sp25/matroids/slides.pdf)] [[video](https://youtu.be/xWWwQ1dqTdE?si=lCke7KTqMTdVMJ1_)]
