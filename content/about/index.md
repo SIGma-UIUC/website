@@ -17,7 +17,7 @@ Check out our past [[meetings](https://www.cstheory.org/meetings/)] to see all t
 
 Mondays 6:00 PM
 
-Siebel Center for Computer Science, Room 1302
+Siebel Center for Computer Science, Room 0216
 
 ### Who Are We?
 
@@ -25,7 +25,7 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Admins
 
-[[Sam](https://surg.dev/)][^1] [[Alex](https://alex-d-b.github.io/ )] [[Porter](https://www.linkedin.com/in/porter-sh/)] [Sasha] [Franklin] [Ian]
+[[Sam](https://surg.dev/)][^1] [[Alex](https://alex-d-b.github.io/ )] [[Porter](https://www.linkedin.com/in/porter-sh/)] [Sasha] [Franklin] [[Ian](https://yasmercy.github.io/)]
 
 #### Past Admins
 
