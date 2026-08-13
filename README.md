@@ -10,7 +10,10 @@ git clone git@github.com:SIGma-UIUC/website --recurse-submodules
 
 ## Editing
 
-The `content/` directory consists of markdown files that are the source of truth.
+- `content/` - markdown files for the index
+- `static/meetings/` - pdfs for the slides
+- `meetings/` - repository for any source files
+
 Use `hugo` to compile these into `.html` for the static site.
 
 Each edit needs two commits:
