@@ -12,7 +12,7 @@ This is where we publish all of our weekly content, along with any other related
 - Mihir - **E-Graphs** [[slides](https://cstheory.org/meetings/sp26/egraphs/slides.pdf)]
 - Jack - **Graphons** [[slides](https://cstheory.org/meetings/sp26/graphons/slides.pdf)]
 - Ian - **Parallel Graph Algorithms** [[slides](https://cstheory.org/meetings/sp26/parallel_graphs/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP26/Par-Graph-Algos)] (joint meeting with [SIAM](https://discord.gg/ZJFXFkJ2g7))
-- Navid - **Shortest Paths**
+- Navid - **Shortest Paths** [[slides](https://cstheory.org/meetings/sp26/shortest_paths/slides.pdf)]
 - Ian - **Dynamic Graph Connectivity** [[slides](https://cstheory.org/meetings/sp26/dynamic_connectivity/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/SP26/Dynamic-Conn)]
 - Franklin - **Rolling and XOR Hashing**
 
