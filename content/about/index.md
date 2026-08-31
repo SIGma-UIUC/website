@@ -25,7 +25,7 @@ This club wouldn't be anything near what it is without what the admins do week t
 
 #### Admins
 
-[Franklin] [[Ian](https://yasmercy.github.io/)] [Mihir]
+[Franklin] [[Ian](https://ianchen3.github.io/)] [Mihir]
 
 #### Past Admins
 
