@@ -6,6 +6,10 @@ summary: Look at past meetings!
 
 This is where we publish all of our weekly content, along with any other related material. These will be listed in reverse chronological order. If there is anything missing, let us know.
 
+## Fall 2026
+
+- Ian - **Introduction; Convex Hulls** [[slides](https://cstheory.org/meetings/fa26/Introduction/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/Introduction)]
+
 ## Spring 2026
 
 - Jeff - **3SUM** [[slides](https://cstheory.org/meetings/sp26/3sum/slides.pdf)]
