@@ -8,6 +8,8 @@ This is where we publish all of our weekly content, along with any other related
 
 ## Fall 2026
 
+[[Presentation sign-up sheet](https://docs.google.com/spreadsheets/d/16I5NAe1UGkcdSgMWnyQ5V26OZsddApojf78i3Utqozg/edit?usp=sharing)]
+
 - Ian - **Introduction; Convex Hulls** [[slides](https://cstheory.org/meetings/fa26/Introduction/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/Introduction)]
 
 ## Spring 2026
