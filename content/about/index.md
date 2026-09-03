@@ -15,9 +15,9 @@ Check out our past [[meetings](https://www.cstheory.org/meetings/)] to see all t
 
 ### When and Where?
 
-Mondays 6:00 PM
+Fall 2026 semester: Mondays 6:00 PM
 
-Siebel Center for Computer Science, Room 0216
+Siebel Center for Computer Science, Room 1304
 
 ### Who Are We?
 
