@@ -9,7 +9,7 @@ This is where we publish all of our weekly content, along with any other related
 ## Fall 2026
 
 [[Presentation sign-up sheet](https://docs.google.com/spreadsheets/d/16I5NAe1UGkcdSgMWnyQ5V26OZsddApojf78i3Utqozg/edit?usp=sharing)]
-
+- Bora - **Convex Hull Trick and Li Chao Tree** [[slides](/meetings/fa26/convex_hull_trick/CHT.pdf)] [[video](https://www.youtube.com/watch?v=1KA40TvvWV8)]
 - Mihir - **Complexity and Linear Programming** [[slides](https://cstheory.org/meetings/fa26/complexity_ilp/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/complexity_ilp)] [[video](https://youtu.be/csY0fod2TDI)]
 - Mihir and Ian - **CG:SHOP Work Session** [[slides](https://cstheory.org/meetings/fa26/cgshop_overview/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/cgshop_overview)] [[video](https://youtu.be/on6PQB1JBIU)]
 - Ian and Mihir - **Introduction; Convex Hulls** [[slides](https://cstheory.org/meetings/fa26/Introduction/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/Introduction)] [[video](https://youtu.be/89-KlBaQkFo)]
