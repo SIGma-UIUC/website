@@ -9,7 +9,8 @@ This is where we publish all of our weekly content, along with any other related
 ## Fall 2026
 
 [[Presentation sign-up sheet](https://docs.google.com/spreadsheets/d/16I5NAe1UGkcdSgMWnyQ5V26OZsddApojf78i3Utqozg/edit?usp=sharing)]
-
+- Ethan - **FFT and NTT** [[slides](/meetings/fa26/fft_ntt/slides.pdf)] [[video](https://youtu.be/UZZ8_rYSgLs)]
+- Professor Timothy Chan - **Klee's Measure Problem** [[slides](/meetings/fa26/klee_measure/slides.pdf)]
 - Ian- **Mixed Integer Programming and Gurobi** [[slides](/meetings/fa26/Gurobi/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/Gurobi)] [[video](https://www.youtube.com/watch?v=2N1dRmzz2xg)]
 - Bora - **Convex Hull Trick and Li Chao Tree** [[slides](/meetings/fa26/convex_hull_trick/CHT.pdf)] [[video](https://www.youtube.com/watch?v=1KA40TvvWV8)]
 - Mihir - **Complexity and Linear Programming** [[slides](https://cstheory.org/meetings/fa26/complexity_ilp/slides.pdf)] [[source](https://github.com/SIGma-UIUC/meetings/tree/main/FA26/complexity_ilp)] [[video](https://youtu.be/csY0fod2TDI)]
