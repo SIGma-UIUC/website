@@ -5,3 +5,6 @@ tmp/
 
 .hugo_build.lock
 resources/_gen
+
+/.quarto/
+**/*.quarto_ipynb
